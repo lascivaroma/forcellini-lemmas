@@ -98,8 +98,8 @@
             const filter_data = (e) => {
               let lemma = e.target.value;
               if (lemma) {
-                table.querySelectorAll("tr:not([lemma*=\""+lemma+"\"])").forEach(hide);
-                table.querySelectorAll("tr[lemma*=\""+lemma+"\"]").forEach(show);
+                table.querySelectorAll("tr:not([lemma*=\""+lemma+"\" i])").forEach(hide);
+                table.querySelectorAll("tr[lemma*=\""+lemma+"\" i]").forEach(show);
               } else {
                 table.querySelectorAll("tr").forEach(show);
               }

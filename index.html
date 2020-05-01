@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Classical Latin LASLA/Forcellini Lemma Dictionnary</title>
+    <style type="text/css">
+        .navbar .form-control {
+          padding: .75rem 1rem;
+          border-width: 0;
+          border-radius: 0;
+        }
+
+        .form-control-dark {
+          color: #fff;
+          background-color: rgba(255, 255, 255, 1);
+          border-color: rgba(255, 255, 255, .4);
+        }
+
+        .form-control-dark:focus {
+          border-color: transparent;
+          box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+        }
+        .bg-white {
+            background-color: #fff; 
+        }
+        .container {
+            min-height: 50px;
+            margin-top: 1em;
+        }
+        .navbar-brand {
+          font-size: 1em;
+        }
+        .hidden {
+          display:none;
+        }
+    </style>
+  </head>   
+  <body class="bg-light">
+      <nav class="navbar navbar-dark bg-dark flex-md-nowrap p-0 shadow">
+          <a class="navbar-brand col-sm-4 col-md-2 mr-0" href="#">Latin Lemma Dictionnary</a>
+          <input class="form-control w-100 form-control-dark" type="text" placeholder="Search" id="search" aria-label="Search">
+      </nav>
+      <div class="container bg-white">
+          <p class="small" style="text-align: center;">Found an error ? Want to add details ? <a href="https://github.com/lascivaroma/forcellini-lemmas/edit/master/dictionnary.tsv">Please propose some changes</a>.</p>
+          <table class="table">
+              <thead></thead>
+              <tbody></tbody>
+          </table>
+          <footer class="small">Favicon source : https://fr.m.wikipedia.org/wiki/Fichier:Closed_Book_Icon.svg, author Boca Tutor</footer>
+      </div>
+      <script type="text/javascript">
+        // self executing function here
+        (function() {
+          const keep_rows = 5;
+          const table = document.getElementsByTagName("tbody")[0];
+
+          fetch("./dictionnary.tsv")
+            .then(function(response) {
+              if (response.statusText == "OK"){
+                return response.text();
+              } else {
+                alert("Loading data failed.");
+              }
+            })
+            .then(function(data) {
+              const rows = data.split(/\n/);
+              let tbody = ""
+              for (var i = 0; i < rows.length; i++) {
+                let tds = rows[i].split(/\t/, keep_rows);
+                /***
+                 Deal with header
+                 */
+                if (i == 0) { 
+                  document.getElementsByTagName('thead')[0].innerHTML = "<tr><th>"+tds.join("</th><th>")+"</th></tr>";
+                } else {
+                /***
+                 Deal with lemmas
+                 */
+                  tbody += "<tr lemma='"+tds[0]+"'><td>"+tds.join("</td><td>")+"</td></tr>";
+                }
+              } // Endfor
+              table.innerHTML = tbody;
+            }); // End "AJAX"
+
+            const search = document.getElementById('search');
+            const hide = (el) => {
+              el.classList.add("hidden");
+            }
+            const show = (el) => {
+              el.classList.remove("hidden");
+            }
+            const filter_data = (e) => {
+              let lemma = e.target.value;
+              if (lemma) {
+                table.querySelectorAll("tr:not([lemma*=\""+lemma+"\"])").forEach(hide);
+                table.querySelectorAll("tr[lemma*=\""+lemma+"\"]").forEach(show);
+              } else {
+                table.querySelectorAll("tr").forEach(show);
+              }
+            };
+            search.addEventListener('change', filter_data);
+            search.addEventListener('keyup', filter_data);
+        })();
+      </script>
+  </body>
+</html>

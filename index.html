@@ -69,6 +69,7 @@
               }
             })
             .then(function(data) {
+              console.log(data);
               const rows = data.split(/\n/);
               let tbody = ""
               for (var i = 0; i < rows.length; i++) {

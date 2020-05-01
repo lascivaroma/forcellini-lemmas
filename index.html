@@ -62,14 +62,13 @@
 
           fetch("./dictionnary.tsv")
             .then(function(response) {
-              if (response.statusText == "OK"){
+              if (response.status >= 200 && response.status < 300){
                 return response.text();
               } else {
                 alert("Loading data failed.");
               }
             })
             .then(function(data) {
-              console.log(data);
               const rows = data.split(/\n/);
               let tbody = ""
               for (var i = 0; i < rows.length; i++) {

@@ -1892,7 +1892,7 @@ arbuteus	, a, um	ADJ	 	arbutea, arbuteis	21
 arbutum	, i	NOM	 	arbuta, arbita	12
 arbutus	, i	NOM	 	arbutus, arbuto	12
 arca	, ae	NOM	 	arca, arcam	11
-Arcades		NOM	 		13
+Arcades	, um	NOM	Pluriel par défaut		13
 Arcadia	, ae	NOM	 		11
 Arcadicus	, a, um	ADJ	 		21
 Arcadius		ADJ	Auto. 	Arcadio, Arcadiis	2
@@ -6137,9 +6137,8 @@ cresco	, is, ere	VER	 	crescit, crescere	53
 Cresius		ADJ	Auto. 	Cresia	2
 Cressa	, ae	NOM	Auto. 	Cressa, Cressae	11
 Cressius		ADJ	Auto. 	Cresia, Cresius	2
-Cressus		ADJ	Auto. 	Cressis, Cressa	2
-creta	, ae	NOM	 	Creta, creta	11
-Creta	, ae	NOM	 		11
+Cressus		ADJ	Auto. 	Cressis, Cressa	
+Creta	, ae	NOM	 	Creta, creta	11
 Cretaeus		ADJ	Auto. 	Cretaea, Cretaeam	2
 Cretanus	, i	NOM	Auto. 	Cretanos	12
 cretatus	, a, um	ADJ	 	cretati, cretata	21
@@ -6486,6 +6485,7 @@ Cynicus	, a, um	ADJ	 		21
 Cynosura	, ae	NOM	Auto. 	Cynosura	11
 Cynthia	, ae	NOM	Auto. 	Cynthia, Cynthiae	11
 Cynthius	, i	NOM	Auto. 	Cynthius, Cynthia	12
+Cynthius	, a, um	ADJ	(Doute sur la POS du précédent) 	Cynthios	
 Cynthus	, i	NOM	Auto. 	Cynthi	12
 cyparissus	, i	NOM	 	cyparissi, cyparissis	12
 Cypassis		NOM	Auto. (Greek)	Cypassi, Cypassis	17
@@ -6883,7 +6883,7 @@ delitigo	, as	VER	Auto. 	delitigat	51
 Delius	, a, um	ADJ	 		21
 Dellius	, i	NOM	Auto. 	Delli	12
 Delos	, i	NOM	Auto. 	Delos, Delum	12
-Delphi	, i	NOM	 		12
+Delphi	, orum	NOM	Toujours au pluriel		12
 Delphicus	, a, um	ADJ	 		21
 delphin	, is	NOM	 (Greek)	delphinum, delphina	17
 delphinus	, i	NOM	 	delphinus, delphinum	12
@@ -7350,7 +7350,7 @@ dilato	, as	VER	 (pas de Sous-lemme) 	dilatant, dilatat	51
 dilator	, is	NOM	Auto. 	dilator	13
 dilectus1	, us	NOM	 	dilectus, dilectu	14
 dilectus2	, a, um	ADJ	 (rare) 	dilectae, dilecta	21
-diligens	, tioris	ADJ	 	diligens, diligentem	25
+diligens	, tis	ADJ	 	diligens, diligentem	25
 diligenter		ADV	 	diligenter, diligentius	60
 diligentia	, ae	NOM	 	diligentia, diligentiam	11
 diligo3	, is, ere	VER	 	diligit, dilexit	53
@@ -10708,6 +10708,7 @@ hendecasyllabus	, i	NOM	 	hendecasyllabos, hendecasyllabi	12
 Heneti	, i	NOM	Auto. 	Heneti	12
 Heniochi	, i	NOM	Auto. 	Heniochos, Heniochus	12
 Henna	, ae	NOM	 		11
+Hennaeus	, a, um	NOM		Hennaeae	
 Hennenses		NOM	 		13
 Hennensis	, is	ADJ	 		24
 hepatarius	, i	ADJ	Auto. 	hepatiarius	2
@@ -15373,6 +15374,7 @@ mutilo	, as, are	VER	 (pas de Sous-lemme) 	mutilatum, mutilatis	51
 mutilus	, a, um	ADJ	 	mutilae, Mutilus	21
 Mutina	, ae	NOM	Auto. 	Mutinam, Mutina	11
 Mutinensis	, Mutinensis	ADJ	Auto. 	Mutinensis, Mutinensia	2
+Mutinus	ii, m	NOM	Priape/Penis/Phallus/ Statue de (..)	Mutinio	2
 mutio	, is, ire	VER	 	muttit, muttis	54
 mutitio	, nis	NOM	Auto. 	muttitio	13
 muto1		NOM	 	muttonis	13

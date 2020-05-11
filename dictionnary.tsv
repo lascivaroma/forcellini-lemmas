@@ -3319,7 +3319,7 @@ caccabus	, i	NOM	Auto. 	caccabo, caccabum	12
 cachinno1		NOM	 		13
 cachinno2	, are	VER	 	cachinnant, cachinno	51
 cachinnus	, i	NOM	 	cachinni, cachinno	12
-caco	, as	VER	 	cacata, cacatum	51
+caco	, as, are	VER	 	cacata, cacatum	51
 cacoethes		NOM	 	cacoethes	13
 cacumen	, inis	NOM	 	cacumina, cacumen	13
 Cacurius	, i	NOM	 		12
@@ -7266,8 +7266,8 @@ dicax	, cis	ADJ	 	dicax, dicacem	25
 dichalcum	, i	NOM	 		12
 dicio	, nis	NOM	 	dicionem, dicione	13
 dicis		NOM	 	dicis	16
-dico1	, as, are	VER	 	dicatum, dicata	51
-dico2	, i', imus, is, ere	VER	 	dicere, dicam	53
+dico1	, as, are	VER	 Dédier, proclamer	dicatum, dicata	51
+dico2	, is, ere, ixi, dictum	VER	 Dire	dicere, dicam	53
 dicrota	, ae	NOM	 	dicrotas	11
 Dictaeus		ADJ	Auto. 	Dictaeos, Dictaea	2
 dictamnus	, i	NOM	Auto. 	dictamnum	12
@@ -10915,7 +10915,7 @@ hiulco	, as	VER	 	hiulcat	51
 hiulcus	, a, um	ADJ	 	hiulca, hiulcis	21
 hodie		ADV	 	hodie	60
 hodiernus	, a, um	ADJ	 (pas de Sous-lemme) 	hodierno, hodiernum	21
-Homericus		ADJ	Auto. 	Homericus, Homericum	2
+Homericus, a, um		ADJ	Auto. 	Homericus, Homericum	2
 Homerista	, ae	NOM	Auto. 	Homeristae, Homeristas	11
 Homerus	, i	NOM	 		12
 homicida	, ae	NOM	 	homicidae, homicida	11
@@ -13419,8 +13419,8 @@ legio	, nis	NOM	 	legiones, legionibus	13
 legionarius	, a, um	ADJ	 (pas de Sous-lemme) 	legionariis, legionarios	21
 legitime		ADV	 	legitime	60
 legitimus	, a, um	ADJ	 	legitimum, legitima	21
-lego1	, as, are	VER	 	legat, legauit	51
-lego2	, is, ere	VER	 	legit, legi	53
+lego1	, as, are	VER	Députer, Nommer, Léguer	legat, legauit	51
+lego2	, is, ere	VER	Cueillir, choisir, lire	legit, legi	53
 legulus	, i	NOM	 	leguli, legulos	12
 legumen	, inis	NOM	 	legumen, legumina	13
 Leleges		NOM	Auto. (Greek)	Lelegas	17
@@ -13588,7 +13588,7 @@ libertina	, ae	NOM	 	libertina, libertinarum	11
 libertinus1	, i	NOM	 	libertini, libertinus	12
 libertinus2	, a, um	ADJ	 = AD LIBERTVM PERTINENS 	libertino, libertini	21
 libertus	, i	NOM	 	libertus, liberti	12
-libet	, es, ere	VER	 	libet, lubet	52
+libet	, buit, bitum est, ere	VER	 (lub- parfois)	libet, lubet	52
 Libethrides		NOM	Auto. 	Libethrides	13
 libidinor	, as, are	VER	Auto. 	libidinantium	51
 libidinose		ADV	 	libidinose, lubidinose	60
@@ -16916,7 +16916,7 @@ paean	, is	NOM	 (Greek)	Paean, paeana	17
 Paean		NOM	 (Greek)		17
 paedagogium	, i	NOM	 	paedagogio, paedagogii	12
 paedagogus	, i	NOM	 	paedagogus, paedagogum	12
-paedico1		NOM	 		13
+paedico1	, onis, m	NOM	pédéraste (Gaffiot)		13
 paedico2	, are	VER	 	pedicabo, pedicare	51
 paedor	, is	NOM	 	paedore, paedor	13
 Paegnium	, i	NOM	Auto. 	Paegnium	12
@@ -19778,6 +19778,7 @@ pseudomenos		NOM	Auto. (Greek)	pseudomenon	17
 Pseudophilippus	, i	NOM	Auto. 	Pseudophilippo, Pseudophilippi	12
 pseudothyrum	, i	NOM	 	pseudothyrum, pseudothyro	12
 psittacus	, i	NOM	 	psittacus, psittacos	12
+psole	psoles	NOM	Gland, de ψωλή (Greek)	psolen	17	
 Psyche		NOM	Auto. (Greek)	Psyche	17
 psychroluta	, e	NOM	Auto. (Greek)	psychrolutam, psychrolutes	17
 psyllus	, i	NOM	 	psyllus	12

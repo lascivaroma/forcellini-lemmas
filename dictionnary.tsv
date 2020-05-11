@@ -14761,6 +14761,7 @@ mercor	, aris, is, ari, ier	VER	 (pas de Sous-lemme) 	mercatus, mercari	5J
 mercurialis	, Mercurialis	ADJ	 	Mercurialium, mercurialis	21
 Mercurius	, i	NOM	 		12
 merda	, ae	NOM	 	merdis	11
+merdaleus	, a, um	ADJ	 Souillé d'excréments	merdalea	21
 merens	, tis	ADJ	 (Même sens que MERITVS) 	merenti, merentis	25
 mereo	, es, ere	VER	 	meruit, meruisse	52
 mereor	, eris, is, eri	VER	 	meritus, mereri	5K
@@ -16685,8 +16686,8 @@ opulentia	, ae	NOM	 	opulentia, opulentiae	11
 opulento	, as, are	VER	 	opulentet	51
 opulentus	, a, um	ADJ	 	opulenta, opulenti	21
 Opuntius	, a, um	ADJ	 		21
-opus1	, eris	NOM	 	opus, opere	13
-opus2		NOM	 	opus, opust	16
+opus1	, eris	NOM	  œuvre, ouvrage, travail	opus, opere	13
+opus2	(Indecl)	NOM	  Chose nécessaire	opus, opust	16
 opusculum	, i	NOM	 	opusculis, opuscula	12
 ora	, ae	NOM	 	oris, oras	11
 oracularius	, i	ADJ	Auto. 	oracularios	2
@@ -17442,6 +17443,7 @@ Pelasgus		ADJ	Auto. 	Pelasgae, Pelasga	2
 pelastes		NOM	 	pelastes	13
 pelecinus	, i	NOM	 		12
 Pelethronium	, i	NOM	Auto. 	Pelethronii	12
+Pelethronius	, am, um	NOM	Péléthronien 	Pelethroniam	21
 Peleus	, Peleis	NOM	Auto. (Greek)	Peleus, Pelea	17
 Peliacus		ADJ	Auto. 	Peliaco, Peliacus	2
 Pelias		NOM	Auto. (Greek)	Pelias, Peliae	17
@@ -20229,7 +20231,7 @@ Querquetulanus	, i	NOM	Auto. 	Querquetulanum	12
 querquetum	, i	NOM	 	querqueta	12
 querulus	, a, um	ADJ	 	querulo, querula	21
 questus	, us	NOM	 	questus, questu	14
-qui1		PRO	 	qui, quae	46
+qui1	, quae, quod	PRO	 	qui, quae,	46
 qui2		ADV	 	qui	66
 qui3		ADV	 	qui	67
 qui4		ADV	 Adverbe Indéfini 	qui	60
@@ -22862,7 +22864,7 @@ spoliator	, is	NOM	 (rare) 	spoliatorem, spoliator	13
 spoliatrix	, cis	NOM	Auto. 	spoliatricem	13
 spoliatus1	, a, um	ADJ	 =NVDVS, SINE SPOLIIS 	spoliati, spoliata	21
 spoliatus2	, a, um	ADJ	 =SPLOLIIS INDVTVS 		21
-spolio	, as, are	VER	 	spoliatum, spoliare	51
+spolio	, as, are	VER	 (aliquem aliqua re) Dépouiller	spoliatum, spoliare	51
 spolium	, i	NOM	 	spolia, spoliis	12
 sponda	, ae	NOM	 	sponda, spondae	11
 spondeo	, en, es, ere	VER	 	spondeo, spondere	52

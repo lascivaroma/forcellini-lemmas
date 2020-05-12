@@ -14772,7 +14772,7 @@ meretrix	, cis	NOM	 	meretrix, meretricis	13
 mereus	, i	NOM	 	mergos	12
 merga	, ae	NOM	 	mergis	11
 merges	, itis	NOM	 	mergite	13
-mergo	, is, ere	VER	 (pas de Sous-lemme) 	mersit, mersa	53
+mergo	, is, ere, mersi	VER	 (pas de Sous-lemme) 	mersit, mersa	53
 mergus	, i	NOM	 	mergi, mergos	12
 meridiano		ADV	 		60
 meridianum	, i	NOM	 =MERIDIANA PARS (Sg.,Pl.) 		12
@@ -17392,8 +17392,8 @@ pecunia	, ae	NOM	 	pecuniam, pecunia	11
 pecuniarius1	, i	NOM	 		12
 pecuniarius2	, a, um	ADJ	 	pecuniaria, pecuniariae	21
 pecuniosus	, a, um	ADJ	 	pecuniosum, pecuniosa	21
-pecus1	, oris	NOM	 (Génitif PECORIS) 	pecus, pecoris	13
-pecus2	, dis	NOM	 (Génitif PECVDIS) 	pecudes, pecudum	13
+pecus1	, pecoris, n.	NOM	Le troupeau	pecus, pecoris	13
+pecus2	, pecudis, f.	NOM	La bête	pecudes, pecudum	13
 pedale	, is	NOM	Auto. 	pedale	13
 pedalis	, is	ADJ	 	pedalibus, pedalis	24
 Pedanius	, i	NOM	Auto. 	Pedanium, Pedanius	12

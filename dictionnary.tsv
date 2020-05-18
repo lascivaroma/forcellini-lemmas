@@ -14307,9 +14307,9 @@ mancus	, a, um	ADJqua	 	mancus, manca	21
 mandatum	, i	NOMcom	 Lemme spécial dans Forcellini 	mandata, mandatis	12
 mandatus	, us	NOMcom	 	mandatu	14
 mandela	, ae	NOMcom	 	mandela	11
-mando1		NOMcom	 		13
-mando2	, as, are	VER	 	mandat, mandatum	51
-mando3	, is	VER	 	mandit, mandendo	53
+mando1	, onis, m.	NOMcom	goinfre		13
+mando2	, as, are, aui, atum	VER	Confier, donner en mission	mandat, mandatum	51
+mando3	, is, ere, mandī, mānsum	VER	Mâcher	mandit, mandendo	53
 mandra	, ae	NOMcom	 	mandrae	11
 Mandubii	, i	NOMpro	Auto. 	Mandubiorum, Mandubiis	12
 Mandubracius	, i	NOMpro	Auto. 	Mandubracium, Mandubracius	12
@@ -15381,8 +15381,9 @@ Mutinensis	, Mutinensis	ADJqua	Auto. 	Mutinensis, Mutinensia	2
 Mutinus	ii, m	NOMpro	Priape/Penis/Phallus/ Statue de (..)	Mutinio	2
 mutio	, is, ire	VER	 	muttit, muttis	54
 mutitio	, nis	NOMcom	Auto. 	muttitio	13
-muto1		NOMcom	 	muttonis	13
-muto2	, as, are	VER	 (pas de Sous-lemme) 	mutare, mutata	51
+muto1	, onis, m.	NOMcom	 	muttonis	13
+muto2	, as, are, aui, atum	VER	(Pas de sous-lemme)	mutare, mutata	51
+mutoniatus	, a, um	ADJqua	Avec un gros pénis	mutuniatus	21
 Mutto	, Muttonis	NOMpro	Auto. 	Muttonis, Muttone	13
 mutuatio	, nis	NOMcom	Auto. 	mutuationibus	13
 mutulus	, i	NOMcom	 		12
@@ -17388,6 +17389,7 @@ pecuarius2	, a, um	ADJqua	 	pecuaria, pecuarias	21
 peculator	, is	NOMcom	Auto. 	peculatoribus, peculatorem	13
 peculatus	, us	NOMcom	 	peculatus, peculatum	14
 peculiaris	, is	ADJqua	 	peculiarem, peculiaris	24
+peculio	, as, are, aui, atum	VER	 	peculiati	51
 peculium	, i	NOMcom	 	peculi, peculium	12
 pecunia	, ae	NOMcom	 	pecuniam, pecunia	11
 pecuniarius1	, i	NOMcom	 		12

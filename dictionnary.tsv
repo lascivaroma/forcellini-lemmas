@@ -2310,8 +2310,8 @@ assentor	, is, ari	VER	 	adsentari, adsentetur	5J
 assequor	, iris, qui	VER	 	adsequi, adsecutus	5L
 asser	, is	NOMcom	 	asseres, asseribus	13
 asserculum	, i	NOMcom	 	assercula, asserculo	12
-assero2	, is, ere	VER	 (Parfait:-SERVI;pas de Sous-lemme ASSERTVS) 	adsereret, adserere	53
-assero3		VER	 (Parfait:-SEVI) 	adsita, adserantur	53
+assero2	, is, serere, servi, sertum	VER	Attacher (pas de sous-lemme assertus)	adsereret, adserere	53
+assero3	, is, serere, sevi, situm	VER	Planter	adsita, adserantur	53
 assertio	, dsertionis	NOMcom	Auto. 	adsertionem	13
 assertor	, dsertoris	NOMcom	 	adsertor, adsertorem	13
 asseruo	, are	VER	 	adseruari, adseruatum	51
@@ -4168,6 +4168,7 @@ Cepheis		NOMpro	Auto. (Greek)	Cephei	17
 Cepheius		ADJqua	Auto. 	Cepheia	2
 Cephenes		NOMpro	Auto. 	Cephenum	13
 Cepheus	, i	NOMpro	Auto. 	Cepheam, Cepheo	12
+cepa	, ae, f	NOMcom	Attention! Caepa (Grec) existe!	cepae	11
 cepto	, as, are	VER	 (Uniquement en Composition) 		51
 cera	, ae	NOMcom	 	cera, ceras	11
 cerarium	, i	NOMcom	 	cerario, cerarium	12
@@ -5138,8 +5139,8 @@ compactura	, ae	NOMcom	 		11
 compactus	, a, um	ADJqua	 =COAGMENTVS, COLLIGATVS, CONJVNCTVS 	compacta, compacto	21
 compages	, is	NOMcom	 	compagibus, conpage	13
 compago	, npaginis	NOMcom	 	conpaginem, compago	13
-compar1	, nparis	NOMcom	 =SOCIVS, SODALIS, CONIVX 	compar, conparis	13
-compar2	, is	ADJqua	 	compar, conpare	25
+compar1	, aris	NOMcom	 =SOCIVS, SODALIS, CONIVX 	compar, conparis	13
+compar2	, aris	ADJqua	 	compar, conpare	25
 comparatio1	, nis	NOMcom	 La Comparaison 	comparatione, conparatione	13
 comparatio2	, nis	NOMcom	 L'acquisition 	comparatio, comparationem	13
 comparatus	, us	NOMcom	 		14
@@ -5744,8 +5745,8 @@ continens3	, tis	ADJqua	 Joint, Voisin;Continu, Cohérent;Abstinent, Sobre 	cont
 continenter		ADV	 	continenter	60
 continentia	, ae	NOMcom	 	continentia, continentiam	11
 contineo	, es, ere	VER	 	continet, continetur	52
-contingo1	, is, ere	VER	 Arriver, Toucher 	contigit, contingere	53
-contingo2	, ere	VER	 Baigner, Teindre 	contingens, contingunt	53
+contingo1	, is, ere, tigi, tactum	VER	 Arriver, Toucher 	contigit, contingere	53
+contingo2	, ere	VER	 Baigner de, Teindre, Imprégner de 	contingens, contingunt	53
 continuatio	, nis	NOMcom	 	continuatione, continuationem	13
 continuatus2	, a, um	ADJqua	 		21
 continuatus	, i	ADJqua	Auto. 	continuato, continuata	2
@@ -8003,8 +8004,8 @@ edormio		VER	 	edormit, edormitur	54
 edormisco		VER	Auto. 	edormiscat	53
 educatio	, nis	NOMcom	 	educatio, educationis	13
 educator	, is	NOMcom	 	educator, educatoris	13
-educo1	, as	VER	 	educatus, educat	51
-educo2	, is, ere	VER	 	eduxit, educit	53
+educo1	, as, are	VER	Élever, instruire	educatus, educat	51
+educo2	, is, ere	VER	Faire sortir	eduxit, educit	53
 eductio	, nis	NOMcom	 	eductio	13
 edulis	, is	ADJqua	 	edulis	24
 eduro	, as	VER	 	edurat	51
@@ -9951,8 +9952,8 @@ Fundi	, i	NOMpro	Auto. 	Fundos	12
 fundito	, as	VER	Auto. 	funditat, funditas	51
 funditor	, is	NOMcom	 	funditores, funditorum	13
 funditus		ADV	 	funditus	60
-fundo1	, are	VER	 	fundatum, fundata	51
-fundo2	, is, ere	VER	 	fudit, fundit	53
+fundo1	, as, are, avi, atum, fundus	VER	 	fundatum, fundata	51
+fundo2	, is, ere, fudi, fusum	VER	 	fudit, fundit	53
 fundulus	, i	NOMcom	 		12
 fundus	, i	NOMcom	 	fundum, fundo	12
 funebris	, is	ADJqua	 	funebri, funebrem	24
@@ -11697,8 +11698,8 @@ incestus1	, us	NOMcom	 	incestus	14
 incestus2	, a, um	ADJqua	 	incesto, incesta	21
 inchoo	, as, are	VER	 	inchoata, inchoatum	51
 incidentia	, s	NOMcom	 Les Circonstances 	incidentia	13
-incido1	, is, ere	VER	 (dérivé de CADO) 	incidit, incidunt	53
-incido2	, is, ere	VER	 (dérivé de CAEDO;pas de Sous-lemme INCISVS) 	incidere, incisum	53
+incido1	, is, ere, incidi,	VER	 (dérivé de CADO) 	incidit, incidunt	53
+incido2	, is, ere, incidi, incisum	VER	 (dérivé de CAEDO;pas de Sous-lemme INCISVS) 	incidere, incisum	53
 incieo		VER	 (pas de Temps Primitifs) 		52
 incile	, is	NOMcom	 	incilia	13
 incilis	, is	ADJqua	 	inciles	24
@@ -21991,6 +21992,7 @@ seminator	, is	NOMcom	 		13
 seminex	, cis	ADJqua	 	semineces, seminecis	25
 seminium	, i	NOMcom	 	seminiorum, seminium	12
 semino	, as	VER	 (pas de Sous-lemme) 	seminat, seminatust	51
+seminonus	, a, um	ADJqua	 	seminosas	21
 seminudus	, a, um	ADJqua	 	seminudo, seminudis	21
 semipaganus	, a, um	ADJqua	 	semipaganus	21
 semipes	, dis	NOMcom	 	semipedem, semiped.	13

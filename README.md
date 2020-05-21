@@ -14,6 +14,12 @@ Cite as
 }
 ```
 
+## Commits Message structure
+
+- `+` means a lemma was **added**
+- `*` means a lemma ha been more thoroughly **detailed**
+- `1/2` means lemma1 and lemma2 (disambiguation) were both modified
+
 ## Source
 
 *   D. Longrée, C. Philippart de Foy & G. Purnelle. « Structures phrastiques et analyse automatique des données morphosyntaxiques : le projet LatSynt », in S. Bolasco, I. Chiari & L. Giuliano (eds), Statistical Analysis of Textual Data, Proceedings of 10th International Conference Journées d'Analyse statistique des Données Textuelles, 9-11 June 2010, Sapienza University of Rome, Rome, LED, pp. 433-442.

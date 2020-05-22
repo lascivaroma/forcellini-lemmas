@@ -19,6 +19,7 @@ Cite as
 - `+` means a lemma was **added**
 - `*` means a lemma ha been more thoroughly **detailed**
 - `1/2` means lemma1 and lemma2 (disambiguation) were both modified
+- `@` fixed a typo
 
 ## Source
 

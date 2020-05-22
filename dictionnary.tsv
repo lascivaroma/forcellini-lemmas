@@ -10918,7 +10918,7 @@ hiulco	, as	VER	 	hiulcat	51
 hiulcus	, a, um	ADJqua	 	hiulca, hiulcis	21
 hodie		ADV	 	hodie	60
 hodiernus	, a, um	ADJqua	 (pas de Sous-lemme) 	hodierno, hodiernum	21
-Homericus, a, um		ADJqua	Auto. 	Homericus, Homericum	2
+Homericus	, a, um		ADJqua	Auto. 	Homericus, Homericum	2
 Homerista	, ae	NOMpro	Auto. 	Homeristae, Homeristas	11
 Homerus	, i	NOMpro	 		12
 homicida	, ae	NOMcom	 	homicidae, homicida	11
@@ -15379,7 +15379,7 @@ mutilo	, as, are	VER	 (pas de Sous-lemme) 	mutilatum, mutilatis	51
 mutilus	, a, um	ADJqua	 	mutilae, Mutilus	21
 Mutina	, ae	NOMpro	Auto. 	Mutinam, Mutina	11
 Mutinensis	, Mutinensis	ADJqua	Auto. 	Mutinensis, Mutinensia	2
-Mutinus	ii, m	NOMpro	Priape/Penis/Phallus/ Statue de (..)	Mutinio	2
+Mutinius	ii, m	NOMpro	Priape/Penis/Phallus/ Statue de (..)	Mutinio	2
 mutio	, is, ire	VER	 	muttit, muttis	54
 mutitio	, nis	NOMcom	Auto. 	muttitio	13
 muto1	, onis, m.	NOMcom	 	muttonis	13
@@ -17448,7 +17448,7 @@ Pelasgus		ADJqua	Auto. 	Pelasgae, Pelasga	2
 pelastes		NOMcom	 	pelastes	13
 pelecinus	, i	NOMcom	 		12
 Pelethronium	, i	NOMpro	Auto. 	Pelethronii	12
-Pelethronius	, am, um	NOMpro	Péléthronien 	Pelethroniam	21
+Pelethronius	, a, um	ADJqua	Péléthronien 	Pelethroniam	21
 Peleus	, Peleis	NOMpro	Auto. (Greek)	Peleus, Pelea	17
 Peliacus		ADJqua	Auto. 	Peliaco, Peliacus	2
 Pelias		NOMpro	Auto. (Greek)	Pelias, Peliae	17
@@ -21992,7 +21992,7 @@ seminator	, is	NOMcom	 		13
 seminex	, cis	ADJqua	 	semineces, seminecis	25
 seminium	, i	NOMcom	 	seminiorum, seminium	12
 semino	, as	VER	 (pas de Sous-lemme) 	seminat, seminatust	51
-seminonus	, a, um	ADJqua	 	seminosas	21
+seminosus	, a, um	ADJqua	 	seminosas	21
 seminudus	, a, um	ADJqua	 	seminudo, seminudis	21
 semipaganus	, a, um	ADJqua	 	semipaganus	21
 semipes	, dis	NOMcom	 	semipedem, semiped.	13
@@ -22517,7 +22517,8 @@ siquidem		CONsub	 (forme en 1 ou 2 mots) 	siquidem	82
 Siraci	, i	NOMpro	Auto. 	Siracorum, Siracos	12
 siremps		PROind	 	siremps, sirempse	48
 Siren		NOMpro	Auto. (Greek)	Sirenum, Siren	17
-Sirius		ADJqua	Auto. 	Sirius	2
+sirius		ADJqua	Auto. 	Sirius	2
+Sirius	, i, m.	NOMpro	 	Sirius	12
 Sirmio		NOMpro	Auto. 	Sirmio	13
 sirpicium	, i	NOMcom	 	sirpicium	12
 sirpiculus	, i	NOMcom	Auto. 	sirpiculis	12

@@ -8767,8 +8767,8 @@ excidio	, nis	NOMcom	Auto. 	excidionem	13
 excidium2	, i	NOMcom	 =CASVS, OCCASVS 		12
 excidium1	, i	NOMcom	Auto. 	excidium, excidio	12
 excidium1ruina	, i	NOMcom	 		12
-excido1	, is, ere	VER	 (dérivé de CADO; pas de Supin) 	excidit, excidat	53
-excido2	, ere	VER	 (dérivé de CAEDO; pas de Sous-lemme) 	excisa, excisis	53
+excido1	, is, ere, ∅	VER	 (dérivé de CADO; pas de Supin) 	excidit, excidat	53
+excido2	, is, ere, isus	VER	 (dérivé de CAEDO; pas de Sous-lemme) 	excisa, excisis	53
 excieo		VER	 Uniquement pour les formes de la 2ème Coni.) 		52
 excio	, ire	VER	 	excita, exciti	54
 excipio	, is, ere	VER	 	excepit, excipit	55
@@ -12278,8 +12278,8 @@ inseparabilis	, is	ADJqua	 	inseparabile, inseparabilis	24
 insepultus1	, a, um	ADJqua	 (Composé de IN Privatif) 	insepultos, insepultam	21
 insepultus2	, a, um	ADJqua	 (Composé de IN Intensif) 	insepulta	21
 insequor	, iris, qui	VER	 pas de Sous-lemme INSEQUENS ADJ. 	insequitur, insequi	5L
-insero2	, is, ere	VER	 (Parfait:-SERVI) 	inserta, inserere	53
-insero3	, is, ere	VER	 (Parfait:-SEVI) 	insita, inserito	53
+insero2	, is, ere, serui	VER	 (Parfait:-SERVI) 	inserta, inserere	53
+insero3	, is, ere, seui	VER	 (Parfait:-SEVI) 	insita, inserito	53
 inserto	, as	VER	 	insertans, insertabam	51
 inseruio	, is, ire	VER	 	inseruire, inseruit	54
 insideo	, es	VER	 (-SEDI, -SESSVM) 	insedit, insidens	52
@@ -16316,8 +16316,8 @@ occento	, as, are	VER	Auto. 	occentem	51
 Occia	, ae	NOMpro	Auto. 	Occiae	11
 Occidens		NOMpro	 		13
 occidio	, nis	NOMcom	 	occidioni, occidione	13
-occido1	, is, ere	VER	 (dérivé de CADO) 	occidit, occidere	53
-occido2	, is, ere	VER	 (dérivé de CAEDO) 	occidere, occisus	53
+occido1	, is, ere, casum	VER	 (dérivé de CADO) 	occidit, occidere	53
+occido2	, is, ere, cisum	VER	 (dérivé de CAEDO) 	occidere, occisus	53
 occiduus	, a, um	ADJqua	 	occiduus, occiduo	21
 occillo	, as, are	VER	Auto. 	occillet	51
 occipio	, is	VER	 	occepi, occepit	55

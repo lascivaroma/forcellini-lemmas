@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+addendum/
+newdictionnary.tsv
 __pycache__/
 *.py[cod]
 *$py.class

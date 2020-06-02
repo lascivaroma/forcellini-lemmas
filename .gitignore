@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+source_lemmata.csv
 addendum/
 newdictionnary.tsv
 __pycache__/

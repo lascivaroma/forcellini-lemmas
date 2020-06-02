@@ -47,7 +47,7 @@
           <input class="form-control w-100 form-control-dark" type="text" placeholder="Search" id="search" aria-label="Search">
       </nav>
       <div class="container bg-white">
-          <p class="small" style="text-align: center;">Found an error ? Want to add details ? <a href="https://github.com/lascivaroma/forcellini-lemmas/edit/master/dictionnary.tsv">Please propose some changes</a>.</p>
+          <p class="small" style="text-align: center;">Found an error ? Want to add details ? <a href="https://github.com/lascivaroma/forcellini-lemmas/edit/master/dictionary.tsv">Please propose some changes</a>.</p>
           <div class="small">
             <p>Source dictionary:</p>
             <ul>
@@ -70,7 +70,7 @@
           const keep_rows = 5;
           const table = document.getElementsByTagName("tbody")[0];
 
-          fetch("./dictionnary.tsv")
+          fetch("./dictionary.tsv")
             .then(function(response) {
               if (response.status >= 200 && response.status < 300){
                 return response.text();

@@ -1639,7 +1639,6 @@ Antenor	, is	NOMpro	 (Greek)		17
 Antenoridae	, ae	NOMpro	Auto. 	Antenoridas	11
 antepagmentum	, i	NOMcom	 	antepagmenta	12
 antepono	, is, ere	VER	 (forme en 1 ou 2 mots) 	anteponenda, anteponatur	53
-antequam1		CON	Auto. 	quam	8
 antequam		CONsub	 (forme en 1 ou 2 mots) 	antequam, quam	82
 anteris	, diis	NOMcom	 (Greek)		17
 antes	, antis	NOMcom	 	antes, antibus	13
@@ -2943,6 +2942,7 @@ baptismum	, i, n.	NOMcom
 Baptista	, ae, m.	NOMcom			11
 baptisterium	, i	NOMcom	Auto. 	baptisterium, baptisteria	12
 baptizo	, as, are	VER	 		51
+Bar	(Indecl)	NOMpro			
 Barabbas	, ae, m.	NOMpro			11
 Barachias	, ae, m.	NOMpro			11
 barathrum	, i	NOMcom	 	barathrum, barathro	12
@@ -4286,7 +4286,7 @@ centenus		ADJdis	 	centena, centenos	33
 centesima	, ae	NOMcom	 	centesimae, centesimas	11
 centesimus		ADJord	 	centesimum, centesima	32
 centiceps	, ipitis	ADJqua	 	centiceps	25
-centiens		ADJqua	Auto. 	centiens, centies	2
+centiens		ADJadv.mul	Auto. 	centiens, centies	2
 centies		ADJadv.mul	 	centies, centiens	36
 centimanus	, a, um	ADJqua	 	centimanus, centimanum	21
 cento	, nis	NOMcom	 	centones, centonibus	13
@@ -19941,6 +19941,7 @@ primitiae	, ae	NOMcom	Auto. 	primitiae, primitias	11
 primitiuus	, a, um	ADJqua			21
 primitus		ADV	 	primitus	60
 primo		VER	 (Uniquement en Composition) 	primo	53
+primo2		ADJadv.ord	  	primo	3N
 primogenitus	, a, um	ADJqua			21
 primordium	, i	NOMcom	 	primordia, primordio	12
 primores	, is	NOMcom	 =PRIMI 	primores, primoribus	13
@@ -20942,7 +20943,7 @@ quinqueremis1	, 	NOMcom	 	quinqueremis, quinqueremi	13
 quinqueremis2		ADJqua	 		24
 quinqueuir	, i	NOMcom	 	quinqueuiro, uuiri	12
 quinqueuiratus	, us	NOMcom	Auto. 	quinqueuiratum	14
-quinquiens		ADJqua	Auto. 	quinquiens, CCCCXXXV	2
+quinquiens		ADJadv.mul	Auto. 	quinquiens, CCCCXXXV	2
 quinquies		ADJadv.mul	 		36
 quinquiplico	, as, are	VER	 	quinquiplicari	51
 Quinta	, ae	NOMpro	Auto. 	Q., Quinta	11
@@ -22596,7 +22597,7 @@ secundo2	, as	VER	 	secundet, secundante	51
 secundum1		ADV	 	secundum	60
 secundum2		PRE	 	secundum	70
 secundus1	, a, um	ADJqua	 =FAVENS (pas de Sous-lemme NEUTRE) 	secundis, secunda	21
-secundus2		ADJord	 	secunda, secundo	32
+secundus2		ADJord	 	secunda, secundo	32#
 Secundus	, i	NOMpro	 		12
 secure		ADV	 	secure, securius	60
 securiclatus	, a, um	ADJqua	 		21
@@ -22849,7 +22850,7 @@ septentrionalia		NOMcom	 	septentrionalia	13
 septentrionalis	, is	ADJqua	 	septentrionali	24
 septenus		ADJdis	 	septena, septenos	33
 Septicius	, i	NOMpro	 		12
-septiens		ADJqua	Auto. 	septiens	2
+septiens		ADJadv.mul	Auto. 	septiens	2
 septifluus	, i	ADJqua	Auto. 	septifluus	2
 septimani	, i	NOMcom	Auto. 	septimani, septimanos	12
 Septimillus	, i	NOMpro	Auto. 	Septimille	12
@@ -22860,7 +22861,7 @@ septimus		ADJord	 	septima, septimo	32
 septingentesimus		ADJord	 		32
 septingenti		ADJcar	 	700, septingentis	31
 septuagesimus		ADJord	 	septuagensimum, septuagesimo	32
-septuagiens		ADJqua	Auto. 	septuagiens	2
+septuagiens		ADJadv.mul	Auto. 	septuagiens	2
 septuaginta		ADJcar	 	70, septuaginta	31
 septuennis	, is	ADJqua	Auto. 	septuennis	2
 sepulcralis	, hralis	ADJqua	 	sepulchrali	24
@@ -24017,6 +24018,7 @@ subitarius	, a, um	ADJqua	 	subitariis, subitaria	21
 subito		ADV	 	subito	60
 subitum	, i	NOMcom	 =RES SVBITA (Sg.,Pl.) 	subita, subitis	12
 subitus	, a, um	ADJqua	 =REPENTINVS, IMPROVISVS;NOVVS, RECENS 	subita, subito	21
+subiugalis	, e	ADJqua	 	subiugialis	2?
 subiugius	, a, um	ADJqua	 	subiugia	21
 subiungo	, ere	VER	 	subiungere, subiunxit	53
 sublabor2	, iris, abi	VER	 	sublapsa, sublabentur	5L
@@ -24513,6 +24515,7 @@ sustineo	, es, ere	VER	 (pas de Sous-lemme) 	sustinere, sustinet	52
 sustollo	, is	VER	 	sustollat, sustollit	53
 susurratio	, onis, f.	NOMcom			3
 susurro	, as	VER	 (pas de Sous-lemme) 	susurrat, susurro	51
+susurro2	, onis, m.	NOMcom			3
 susurrus	, i	NOMcom	 	susurros, susurro	12
 sutela	, ae	NOMcom	Auto. 	sutelis, sutelas	11
 Suthul	, Suthulis	NOMpro	Auto. 	Suthul, Suthule	13
@@ -26624,7 +26627,7 @@ Uicetia	, ae	NOMpro	Auto. 	Vicetia	11
 Uicetini	, i	NOMpro	Auto. 	Vicetinorum, Vicetini	12
 uicia1	, ae	NOMcom	 La Vesce 	uiciam, uiciae	11
 uicia2	, ae	NOMcom	 La Victoire 		11
-uiciens		ADJqua	Auto. 	uiciens, uicies	2
+uiciens		ADJadv.mul	Auto. 	uiciens, uicies	2
 uicies		ADJadv.mul	 		36
 uicina	, ae	NOMcom	 	uicinam, uicinae	11
 uicinalis		ADJqua	 	uicinalis	24

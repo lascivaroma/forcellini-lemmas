@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <title>Classical Latin LASLA/Forcellini Lemma Dictionnary</title>
+    <style type="text/css">
+        .navbar .form-control {
+          padding: .75rem 1rem;
+          border-width: 0;
+          border-radius: 0;
+        }
+
+        .form-control-dark {
+          color: #fff;
+          background-color: rgba(255, 255, 255, 1);
+          border-color: rgba(255, 255, 255, .4);
+        }
+
+        .form-control-dark:focus {
+          border-color: transparent;
+          box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
+        }
+        .bg-white {
+            background-color: #fff;
+        }
+        .container {
+            min-height: 50px;
+            margin-top: 1em;
+        }
+        .navbar-brand {
+          font-size: 1em;
+        }
+        .hidden {
+          display:none;
+        }
+    </style>
+  </head>
+  <body class="bg-light">
+      <nav class="navbar navbar-dark bg-dark flex-md-nowrap p-0 shadow">
+          <a class="navbar-brand col-sm-4 col-md-2 mr-0" href="#">Latin Lemma Dictionnary</a>
+      </nav>
+      <div class="container bg-white">
+          <p class="small" style="text-align: center;">Found an error ? Want to add details ? <a href="https://github.com/lascivaroma/forcellini-lemmas/edit/master/dictionary.tsv">Please propose some changes</a>.</p>
+          <form id="search_run" method="GET">
+              <div class="input-group input-group-lg">
+                  <input type="text" class="form-control" name="q" id="search" value="{{query}}"
+                         placeholder="Search using * if you want to use wildcard" aria-label="Search" />
+                  <div class="input-group-prepend">
+                    <button class="btn btn-primary" type="submit">Search</button>
+                  </div>
+              </div>
+              You can use * as a wildcard.
+          </form>
+          <div class="small">
+            <p>Source dictionary:</p>
+            <ul>
+              <li><a href="https://archive.org/details/Vol.1.A-c.LexiconTotiusLatinitatisForcelliniEd.Quarta/mode/2up">A-C</a></li>
+              <li><a href="https://archive.org/details/Vol.2.D-k.Ed.Quarta.lexiconTotiusLatinitatisAegidioForcelliniLucubratum">D-K</a></li>
+              <li><a href="https://archive.org/details/Vol.3.L-qLexiconTotiusLatinitatisAbAegidioForcelliniLucubratum.Ed">L-Q</a></li>
+              <li><a href="https://archive.org/details/Vol.4.A.R-sLexiconTotiusLatinitatisAegidioForcelliniLucubratum.Vol">R-S</a></li>
+              <li><a href="https://archive.org/details/Vol.4.B.T-z.LexiconTotiusLatinitatisAegidioForcelliniLucubratum.Vol">T-Z</a></li>
+            </ul>
+          </div>
+
+          <nav>
+              <ul class="pagination">
+                  {% for page, prev in pagination|read_pagination %}
+                    {% if page != prev + 1 %}<li class="page-item disabled"><a class="page-link">...</a></li>{%endif%}
+                    {% if page == current_page %}
+                    <li class="page-item disabled"><a class="page-link">{{page}}</a></li>{% else %}
+                    <li class="page-item"><a class="page-link" href="{{ url_for("index", p=page, q=query) }}">{{page}}</a></li>
+                  {%endif%}
+
+                  {% endfor %}
+              </ul>
+          </nav>
+          <table class="table">
+              <thead>{% for field in fields %}<th>{{field}}</th>{% endfor %}</thead>
+              <tbody>
+              {% for result in results["results"] %}<tr>{% for field in fields %}<td>{{result.get(field, "")}}</td>{% endfor %}</tr>
+                {%endfor%}
+              </tbody>
+          </table>
+          <footer class="small">Favicon source : https://fr.m.wikipedia.org/wiki/Fichier:Closed_Book_Icon.svg, author Boca Tutor</footer>
+      </div>
+  </body>
+</html>

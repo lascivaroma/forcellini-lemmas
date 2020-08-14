@@ -1,4 +1,4 @@
-lemma	Nature	POS	Code	Description	Variations
+lemma	Decl	POS	Description	Variations	Code
 Aaron	(Indecl)	NOMpro			
 ab		PRE	 	a, ab	70
 abactus	, us	NOMcom	 	abactus	14
@@ -2138,6 +2138,7 @@ Aris	, Arinis	NOMpro	Auto. 	Arinem, Aris	13
 Arisba	, ae	NOMpro	Auto. 	Arisba	11
 arista	, ae	NOMcom	 	aristas, aristis	11
 Aristaeus	, i	NOMpro	 		12
+Aristagoras	, ae	NOMpro	Greek Historian	Aristagoras	17
 Aristander	, i	NOMpro	Auto. 	Aristander, Aristandrum	12
 Aristarchus	, i	NOMpro	Auto. 	Aristarchum, Aristarchi	12
 Aristeus	, i	NOMpro	 		12
@@ -4491,6 +4492,7 @@ chiramaxium	, i	NOMcom	Auto. 	chiramaxio	12
 chirographum	, i	NOMcom	 	chirographa, chirographis	12
 Chiron		NOMpro	Auto. (Greek)	Chiron	17
 chironomon		NOMcom	 (Greek)	chironomunta, chironomon	17
+chirurgus, i	NOMcom	Chirurgien 	Chii, Chiorum	12
 Chius	, a, um	ADJqua	 		21
 Chius	, Chii	NOMpro	 (Greek)		17
 chlamydatus	, a, um	ADJqua	 	chlamydatum, chlamydatos	21
@@ -5319,6 +5321,7 @@ como2	, is, ere	VER	 	compti, compta	53
 comoedia	, ae	NOMcom	 	comoedia, comoediam	11
 comoedus1	, i	NOMcom	 	comoedos, comoedo	12
 comoedus2	, a, um	ADJqua	 	comoeda	21
+comosus	, a, um	ADJqua	 	comosus	21
 compaciscor		VER	Auto. 	compecto	53
 compactio	, nis	NOMcom	 		13
 compactum	, i	NOMcom	Auto. 	compecto	12
@@ -9758,6 +9761,7 @@ ficarius	, a, um	ADJqua	 	ficarias	21
 ficedula	, ae	NOMcom	 	ficedulam, ficedulas	11
 Ficedulenses	, Ficedulensis	NOMpro	Auto. 	Ficedulensibus	13
 ficio		VER	 (Uniquement en Composition) 		55
+ficosus	, a, um	ADJqua	 	ficosissimus	21
 ficte		ADV	Auto. 	ficte	6
 fictile	, is	NOMcom	 =VAS FICTILE 	fictilibus, fictile	13
 fictilis	, is	ADJqua	 	fictilis, fictile	24
@@ -15251,6 +15255,7 @@ mentior	, re, iris, is	VER	 (pas de Sous-lemme) 	mentiri, mentiar	5M
 Mentor	, is	NOMpro	 		13
 Mentoreus		ADJqua	Auto. 	Mentoreo	2
 mentula	, ae	NOMcom	 	Mentula, mentula	11
+mentulatus	, a, um	ADJqua	 	mentulatior	21
 mentum	, i	NOMcom	 	mentum, mento	12
 Menulla	, ae	NOMpro	Auto. 	Menullae	11
 meo	, as, are	VER	 	meare, meat	51
@@ -17501,7 +17506,8 @@ Paeonia	, ae	NOMpro	Auto. 	Paeonia	11
 Paeonius		ADJqua	Auto. 	Paeoniis, Paeonium	2
 Paestum	, i	NOMpro	Auto. 	Paesti	12
 Paetina	, ae	NOMpro	Auto. 	Paetina	11
-Paetus	, a, um	ADJqua	 	Paetus, Paeto	21
+paetus	, a, um	ADJqua	 	Paetus, Paeto	21
+Paetus	, i	NOMpro	(In titulis.)		12
 paganus1	, i	NOMcom	 =QVI IN PAGIS HABITAT 	pagani, paganos	12
 paganus2	, a, um	ADJqua	 	pagano, pagana	21
 Pagasa	, ae	NOMpro	Auto. 	Pagasae	11
@@ -17962,6 +17968,7 @@ pecorosus	, i	ADJqua	Auto. 	pecorosa	2
 pecten	, inis	NOMcom	 	pectine, pectinem	13
 pectinatim		ADV	 		60
 pecto	, is, ere	VER	 	pectunt, pectendos	53
+pectorosus	, a, um	ADJqua	 	pectorosior	21
 pectus	, oris	NOMcom	 	pectore, pectus	13
 pecu	, us	NOMcom	 	pecua, pecu	14
 pecuaria	, i	NOMcom	 	pecuaria	12
@@ -22406,6 +22413,7 @@ scatebra	, ae	NOMcom	 	scatebris	11
 scateo		VER	 (pas de Sous-lemme) 	scatebunt, scatentem	52
 scato	, Scatonis, ere	VER	 Uniquement pour les formes de la 3ème Conj.) 	scatere, scatit	53
 scaturigo	, inis	NOMcom	 		13
+scaturio	, is, iui, ire	VER	[Var: scaturrio]	scaturrientis	54
 Scaurus	, a, um	ADJqua	 	Scaurus, Scauro	21
 Scaurus	, i	NOMpro	 		12
 scazon		NOMcom	Auto. 	scazontes	13
@@ -24815,6 +24823,7 @@ Telephus	, i	NOMpro	Auto. 	Telephus, Telephum	12
 Telesinus	, i	NOMpro	Auto. 	Telesinus, Telesino	12
 Telesphorus	, i	NOMpro	Auto. 	Telesphorum	12
 Telestis	, Telestidis	NOMpro	Auto. 	Telestidem	13
+Telethusa	, ae	NOMpro	Mother of Iphis	Telethusa	11
 Teleus	, i	NOMpro	Auto. 	Telei	12
 telinum	, i	NOMcom	Auto. 	telinum	12
 Tellena	, i	NOMpro	 		12

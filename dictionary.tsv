@@ -1,4 +1,4 @@
-lemma	Decl	POS	Description	Variations	Code
+lemma	Nature	POS	Description	Variation	Code
 Aaron	(Indecl)	NOMpro			
 ab		PRE	 	a, ab	70
 abactus	, us	NOMcom	 	abactus	14
@@ -21194,8 +21194,8 @@ recessus1	, us	NOMcom	 	recessus, recessu	14
 recessus2	, a, um	ADJqua	 =REMOTVS 		21
 rechamus	, i	NOMcom	 		12
 recidiuus	, a, um	ADJqua	 	recidiua, recidiuus	21
-recido1	, is, ere	VER	 (dérivé de CADO;PAS DE Sous-lemme) 	recidere, reccidit	53
-recido2	, ere	VER	 (dérivé de CAEDO) 	recidi, reciduntur	53
+recido1	, is, reccidi/recidi, recasum, ere	VER	 (dérivé de CADO;PAS DE Sous-lemme) 	recidere, reccidit	53
+recido2	, cidi, cisum, ere	VER	 (dérivé de CAEDO) 	recidi, reciduntur	53
 recingo		VER	 	recincta	53
 recino		VER	 	recinunt, recinet	53
 recipio	, is, ere	VER	 	recepit, recipit	55

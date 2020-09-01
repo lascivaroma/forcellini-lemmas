@@ -61,7 +61,7 @@
             </ul>
           </div>
 
-          <form id="search_run" method="GET">
+          <form id="search_run" method="GET" style="margin-bottom: 2em;">
               <div class="input-group input-group-lg">
                   <input type="text" class="form-control" name="q" id="q" value=""
                          placeholder="Search using * if you want to use wildcard" aria-label="Search" />
@@ -71,7 +71,7 @@
               </div>
               You can use * as a wildcard.
           </form>
-          <table class="table">
+          <table class="table table-stripped">
               <thead></thead>
               <tbody></tbody>
           </table>
@@ -151,6 +151,9 @@
                   tbody.appendChild(documents[i].html);
                 }
               };
+              const noResults = document.createElement("tr");
+              noResults.innerHTML = `<td class="bg-warning" colspan="${keep_rows}">No results</td>`;
+
               form.addEventListener("submit", function(e) {
                 e.preventDefault();
 
@@ -163,10 +166,13 @@
 
                 tbody.innerHTML = "";
 
-                for (var i = 0; i < results.length; i++) {
-                  tbody.appendChild(documents[results[i].ref].html);
+                if (results.length) {
+                  for (var i = 0; i < results.length; i++) {
+                    tbody.appendChild(documents[results[i].ref].html);
+                  }
+                } else {
+                  tbody.appendChild(noResults);
                 }
-
               });
 
             }, false);
